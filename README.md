@@ -1,7 +1,7 @@
 # OpenWeatherAPI-Web-Application
 
 
-Weather App that is built using NodeJS, HTML, and CSS. The app utilizes OpenWeatherMap API with server-client communication to retrieve data based on user's input (Displays on localhost website)
+Weather Application built using NodeJS, HTML, and CSS. The app utilizes OpenWeatherMap API with server-client communication to retrieve data based on user's input (Displays on localhost website)
 <br /><br />
 Data: <br />
 -> Weather of inputted location based on an image <br />
